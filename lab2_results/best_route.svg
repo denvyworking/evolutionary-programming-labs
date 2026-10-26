@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650">
+<rect width="100%" height="100%" fill="white"/>
+<polyline points="272.6,421.3 278.9,306.1 187.9,320.8 94.7,212.9 55.0,122.8 265.5,100.7 276.1,101.2 397.4,55.0 464.9,79.6 429.4,154.3 526.6,165.3 554.0,190.0 408.3,282.4 478.5,348.7 578.9,359.9 560.7,475.9 576.5,509.4 471.2,485.3 355.1,556.8 237.0,595.0 272.6,421.3" fill="none" stroke="#1f77b4" stroke-width="2"/>
+<circle cx="55.0" cy="122.8" r="5" fill="#d62728"/>
+<text x="62.0" y="115.8">C01</text>
+<circle cx="429.4" cy="154.3" r="5" fill="#d62728"/>
+<text x="436.4" y="147.3">C02</text>
+<circle cx="187.9" cy="320.8" r="5" fill="#d62728"/>
+<text x="194.9" y="313.8">C03</text>
+<circle cx="554.0" cy="190.0" r="5" fill="#d62728"/>
+<text x="561.0" y="183.0">C04</text>
+<circle cx="276.1" cy="101.2" r="5" fill="#d62728"/>
+<text x="283.1" y="94.2">C05</text>
+<circle cx="355.1" cy="556.8" r="5" fill="#d62728"/>
+<text x="362.1" y="549.8">C06</text>
+<circle cx="265.5" cy="100.7" r="5" fill="#d62728"/>
+<text x="272.5" y="93.7">C07</text>
+<circle cx="578.9" cy="359.9" r="5" fill="#d62728"/>
+<text x="585.9" y="352.9">C08</text>
+<circle cx="526.6" cy="165.3" r="5" fill="#d62728"/>
+<text x="533.6" y="158.3">C09</text>
+<circle cx="560.7" cy="475.9" r="5" fill="#d62728"/>
+<text x="567.7" y="468.9">C10</text>
+<circle cx="94.7" cy="212.9" r="5" fill="#d62728"/>
+<text x="101.7" y="205.9">C11</text>
+<circle cx="272.6" cy="421.3" r="5" fill="#d62728"/>
+<text x="279.6" y="414.3">C12</text>
+<circle cx="408.3" cy="282.4" r="5" fill="#d62728"/>
+<text x="415.3" y="275.4">C13</text>
+<circle cx="464.9" cy="79.6" r="5" fill="#d62728"/>
+<text x="471.9" y="72.6">C14</text>
+<circle cx="471.2" cy="485.3" r="5" fill="#d62728"/>
+<text x="478.2" y="478.3">C15</text>
+<circle cx="278.9" cy="306.1" r="5" fill="#d62728"/>
+<text x="285.9" y="299.1">C16</text>
+<circle cx="576.5" cy="509.4" r="5" fill="#d62728"/>
+<text x="583.5" y="502.4">C17</text>
+<circle cx="237.0" cy="595.0" r="5" fill="#d62728"/>
+<text x="244.0" y="588.0">C18</text>
+<circle cx="478.5" cy="348.7" r="5" fill="#d62728"/>
+<text x="485.5" y="341.7">C19</text>
+<circle cx="397.4" cy="55.0" r="5" fill="#d62728"/>
+<text x="404.4" y="48.0">C20</text>
+</svg>

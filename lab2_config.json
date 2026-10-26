@@ -1,0 +1,19 @@
+{
+  "student_number": 21,
+  "group": 517,
+  "year_suffix": 26,
+  "variant": 11,
+  "task": "Travelling salesman problem",
+  "representation": "permutation",
+  "cities": 20,
+  "data_seed": 20260226,
+  "runs": 20,
+  "run_seeds": "20260201..20260220",
+  "population_size": 60,
+  "generations": 99,
+  "evaluations_per_run": 6000,
+  "crossover_operators": ["OX", "PMX"],
+  "mutation_operators": ["swap", "inversion"],
+  "mutation_probability": 0.2,
+  "baseline": ["random search", "nearest neighbor"]
+}
